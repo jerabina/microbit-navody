@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "tutorial-kompas.md",
-        "tutorial-tlacitka.md"
+        "tutorial-tlacitka.md",
+        "tutorial-obrazce.md"
     ],
     "testFiles": [
         "test.ts"

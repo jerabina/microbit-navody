@@ -1,11 +1,11 @@
 # Kompas
 
-## Úvod ##
+## Úvod @unplugged
 
 Cvičení vám ukaže jak naprogramovat @boardname@, aby vám ukazoval, kterým směrem jsou světové strany.
 Hodnota čidla kompasu je ve stupních 0-359, když logo @boardname@ ukazuje na sever `||input:nasměrování kompasu (°)||` je hotnota 0.
 
-## Čtení proměné z čidla kompasu ##
+## Čtení proměné z čidla kompasu @fullscreen
 
 Ve smyčce `||basic:opakuj stále||`, ulož vstupní proměnou `||input:nasměrování kompasu (°)||` do proměné `||variables:kompas||`.
 
@@ -16,7 +16,7 @@ basic.forever(function () {
 })
 ```
 
-## Sever ##
+## Sever @fullscreen
 
 `||logic:Když||` jsou `||variables:kompas||` `||logic:menší než||` `45`, tak je směr kompasu na **sever**.
 Pomocí funkce `||basic:zobraz text||` ukážeme na display @boardname@ znak `S`.
@@ -31,7 +31,7 @@ basic.forever(function () {
 })
 ```
 
-## Východ ##
+## Východ @fullscreen
 
 `||logic:Jinak když||` jsou `||variables:kompas||` `||logic:menší než||` `135`, tak je směr kompasu na **východ**.
 Pomocí funkce `||basic:zobraz text||` ukážeme na display @boardname@ znak `V`.
@@ -48,11 +48,11 @@ basic.forever(function () {
 })
 ```
 
-## Simulátor ##
+## Simulátor @fullscreen
 
 Přejděte do simulátoru a otáčejte @boardname@ logem, tím budete simulovat změny kompasu.
 
-## Jih ##
+## Jih @fullscreen
 
 `||logic:Jinak když||` jsou `||variables:kompas||` `||logic:menší než||` `225`, tak je směr kompasu na **jih**.
 Pomocí funkce `||basic:zobraz text||` ukážeme na display @boardname@ znak `J`.
@@ -71,7 +71,7 @@ basic.forever(function () {
 })
 ```
 
-## Západ ##
+## Západ @fullscreen
 
 `||logic:Jinak když||` jsou `||variables:kompas||` `||logic:menší než||` `315`, tak je směr kompasu na **západ**.
 Pomocí funkce `||basic:zobraz text||` ukážeme na display @boardname@ znak `Z`.
@@ -92,7 +92,7 @@ basic.forever(function () {
 })
 ```
 
-## Znovu sever ##
+## Znovu sever @fullscreen
 
 `||logic:Jinak||` je hodnota `||variables:kompas||` 315 až 359, tak budeme také ukazovat na  **sever**.
 Na display @boardname@ opět zobrazíme znak `S`.
@@ -115,7 +115,7 @@ basic.forever(function () {
 })
 ```
 
-## Závěr ##
+## Závěr @fullscreen
 
 Pokud máte hotovo, klikněte na `|Download|` a postupujte podle pokynů na obrazovce.
 Kompas potřebuje kalibraci, jak na to je k vidění v tomto videu: https://youtu.be/IL5grHtz_MU
