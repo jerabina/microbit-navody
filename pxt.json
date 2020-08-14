@@ -11,7 +11,9 @@
         "README.md",
         "tutorial-kompas.md",
         "tutorial-tlacitka.md",
-        "tutorial-obrazce.md"
+        "tutorial-obrazce.md",
+        "tutorial-zobrazeni-textu.md",
+        "tutorial-kostka.md"
     ],
     "testFiles": [
         "test.ts"
