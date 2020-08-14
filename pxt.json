@@ -1,6 +1,6 @@
 {
     "name": "microbit-navody",
-    "description": "",
+    "description": "Návody pro používání microbit",
     "dependencies": {
         "core": "*",
         "radio": "*"

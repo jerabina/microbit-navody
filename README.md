@@ -1,31 +1,12 @@
+# Microbit cvičení
 
-> Open this page at [https://jerabina.github.io/microbit-navody/](https://jerabina.github.io/microbit-navody/)
+## Základní prvky
+[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-zobrazeni-textu](Zobrazení textu)
 
-## Use as Extension
+[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-tlacitka](Tlačítka)
 
-This repository can be added as an **extension** in MakeCode.
+[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-obrazce](Blikající obrázek)
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/jerabina/microbit-navody** and import
+[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-kompas](Kompas)
 
-## Edit this project ![Odznak stavu sestavení](https://github.com/jerabina/microbit-navody/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/jerabina/microbit-navody** and click import
-
-## Náhled bloků
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![Vykreslený náhled bloků](https://github.com/jerabina/microbit-navody/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-kostka](Házecí kostka)
