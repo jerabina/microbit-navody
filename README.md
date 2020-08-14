@@ -1,12 +1,13 @@
 # Microbit cvičení
 
 ## Základní prvky
-[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-zobrazeni-textu](Zobrazení textu)
 
-[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-tlacitka](Tlačítka)
+[Zobrazení textu](https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-zobrazeni-textu)
 
-[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-obrazce](Blikající obrázek)
+[Tlačítka](https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-tlacitka)
 
-[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-kompas](Kompas)
+[Blikající obrázek](https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-obrazce)
 
-[https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-kostka](Házecí kostka)
+[Kompas](https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-kompas)
+
+[Házecí kostka](https://makecode.microbit.org/#tutorial:github:jerabina/microbit-navody/tutorial-kostka)
